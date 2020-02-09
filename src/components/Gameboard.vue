@@ -2,7 +2,7 @@
     <div class="gameboard">
         <div :key="card.cardNumber" v-for="card in allCards">
           <Card v-if="!gameOver" :card="card" v-on:turn-up="turnFaceUp(card)"/>
-          <h2 v-else class="winner">{{ winner ? getWinner : `nobody` }} WINS!</h2>
+          <h2 v-else class="winner">{{ getWinner !== false ? getWinner : `nobody` }} WINS!</h2>
         </div>
     </div>
 </template>

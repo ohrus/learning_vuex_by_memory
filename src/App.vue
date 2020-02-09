@@ -10,7 +10,7 @@
     </div>
     <footer class="footer">
       <p>artwork by Theodore, Marianne, and Lawrence Milley</p>
-      <p>source code available on <a href="">Github</a></p>
+      <p>source code available on <a href="https://github.com/ohrus/learning_vuex_by_memory">Github</a></p>
     </footer>
   </div>
 </template>

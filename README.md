@@ -1,4 +1,13 @@
-# A memory game made with vue, vuex
+# A memory game made with Vuejs, vuex
+
+## Purpose
+
+Created in an attempt to learn something about vuex. I learned some things. 
+
+Possible (unlikely) future features:
+* Choose your own name on start
+* Reset the board (refreshing does the trick)
+* Updating the slightly underwhelming 'win screen'
 
 ## Project setup
 ```
@@ -14,11 +23,3 @@ npm run serve
 ```
 npm run build
 ```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).

@@ -1,5 +1,7 @@
 # A memory game made with Vuejs, vuex
 
+![screenshot of memory game](https://raw.githubusercontent.com/ohrus/learning_vuex_by_memory/master/memory.png)
+
 ## Purpose
 
 Created in an attempt to learn something about vuex. I learned some things. 

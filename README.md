@@ -9,6 +9,8 @@ Possible (unlikely) future features:
 * Reset the board (refreshing does the trick)
 * Updating the slightly underwhelming 'win screen'
 
+Demo: [Demo](https://angry-lovelace-b01750.netlify.com/)
+
 ## Project setup
 ```
 npm install
